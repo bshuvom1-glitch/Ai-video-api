@@ -1,2 +1,3 @@
-# No external dependencies required
-# Uses only Python standard library: urllib, json, re, http.server
+fastapi
+yt-dlp
+uvicorn
