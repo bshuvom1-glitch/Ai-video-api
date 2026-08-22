@@ -1,3 +1,3 @@
-fastapi
-yt-dlp
-uvicorn
+pyTelegramBotAPI==4.20.0
+flask==3.0.0
+requests==2.31.0
